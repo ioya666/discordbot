@@ -10,7 +10,7 @@ function generatecode(){
     let fgn = gn.map(num =>{
         return String(num)
     }); return fgn
-}
+}//
 
 let secret=[]
 export default function (msg, args){
